@@ -26,6 +26,4 @@ match codigo:
         print("Você escolheu; Pão com ovo no valor R$5,00, Boa Refeição!") 
     case _:
         print("Opção invalidada") 
-
-    
-
+        
