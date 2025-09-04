@@ -4,7 +4,7 @@ os.system("cls")
 primeiro_numero = float(input("Digite o primeiro numero: "))
 segundo_numero = float(input("Digite o segundo numero: "))
 
-operação = str(input("digite qual operaçao você deseja: +, -, /, *"))
+operação = str(input("digite qual operaçao você deseja: +(soma), -(subtracao), /(Divisao), *(Multiplicacao): ")) 
 
 
 soma  = primeiro_numero + segundo_numero 

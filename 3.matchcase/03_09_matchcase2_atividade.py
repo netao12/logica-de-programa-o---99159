@@ -1,7 +1,7 @@
 import os 
 os.system ("cls") 
 
-valor_produto = float(input("Digite o valor do produto: "))
+valor_produto = float(input("Digite o valor do produto: ")) 
 
 print("""
 1-À vista
@@ -19,7 +19,7 @@ match forma_de_pagamento:
         print(f"\nValor do produto: {valor_produto}")
         print("Forma de pagamento: à vista") 
         print(f"Valor do desconto: {desconto}")
-        print("Total a pagar: R$: {valor_com_desconto}") 
+        print(f"Total a pagar: R$: {valor_com_desconto}") 
     case 2: 
         quantidade_parcelas = int(input("Digite a quantidade de parcelas: "))
 
