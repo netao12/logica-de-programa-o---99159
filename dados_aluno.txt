@@ -1,0 +1,10 @@
+====Dados Aluno===
+netao
+18
+719999.0
+aleixo.com
+====Dados Aluno===
+kaua
+24
+7199999.0
+rickk.com
