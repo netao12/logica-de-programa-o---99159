@@ -1,15 +1,15 @@
 ====Dados livro====
-Harry Potter 3
-Jr.rowling
-Fantasia
-59.88
+harry potter 1
+jk rowling
+fantasia
+57.88
 ====Dados livro====
-Harry Potter 3
-Jr.rowling
-Fantasia
-59.88
+senhor dos aneis
+tolkien
+fantasia
+57.88
 ====Dados livro====
-Harry Potter 3
-Jr.rowling
-Fantasia
-59.88
+big broyher
+owell
+comunismo
+13.0
